@@ -9,6 +9,7 @@ To use this plugin on iOS you need to opt-in for the embedded views preview by a
 
 
 ## 2)
+```Swift
 import UIKit
 import Flutter
 import GoogleMaps
@@ -24,10 +25,10 @@ import GoogleMaps
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }
-
+```
 
 ## Screenshot
-![image](https://github.com/ly05010419/WWDC-Flutter/blob/master/show.gif?raw=true)
+![image](https://github.com/ly05010419/WWDC_Flutter/blob/master/show.gif?raw=true)
 
 
 
